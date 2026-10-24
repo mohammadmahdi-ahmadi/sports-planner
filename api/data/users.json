@@ -1,0 +1,10 @@
+[
+  {
+    "id": "admin",
+    "name": "مدیر سیستم",
+    "email": "admin@sportplanner.local",
+    "role": "admin",
+    "salt": "herat-demo-salt",
+    "passwordHash": "076a5defae51c414e179e44cae96e4b0348b3f96b8695104b86cf95369e1a09ca4b78e813f17e199b2ad4e6ee91aef54fcb5d7c30f8398af84726e9f618fbddd"
+  }
+]

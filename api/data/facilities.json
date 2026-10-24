@@ -1,0 +1,93 @@
+[
+  {
+    "id": "f1",
+    "name": "City Football Pitch A",
+    "sportCategory": "football",
+    "hourlyRateAFN": 200,
+    "capacity": 22,
+    "slotIds": [
+      "SAT-09",
+      "SAT-10",
+      "SAT-11",
+      "SAT-12",
+      "SAT-13",
+      "SAT-14"
+    ],
+    "description": "Full-size grass pitch with floodlights.",
+    "image": "https://images.unsplash.com/photo-1459865264687-595d652de67e?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "f2",
+    "name": "Riverside Mini Football",
+    "sportCategory": "football",
+    "hourlyRateAFN": 150,
+    "capacity": 14,
+    "slotIds": [
+      "SUN-09",
+      "SUN-10",
+      "SUN-11",
+      "SUN-12"
+    ],
+    "description": "Small 7-a-side pitch near the river.",
+    "image": "https://images.unsplash.com/photo-1522778119026-d647f0596c20?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "f3",
+    "name": "Sunset Volleyball Court",
+    "sportCategory": "volleyball",
+    "hourlyRateAFN": 180,
+    "capacity": 12,
+    "slotIds": [
+      "SAT-09",
+      "SAT-10",
+      "SAT-11",
+      "SAT-12",
+      "SAT-13"
+    ],
+    "description": "Outdoor sand court with seating.",
+    "image": "https://images.unsplash.com/photo-1728971125178-9d393c36b460?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "f4",
+    "name": "Indoor Volleyball Hall",
+    "sportCategory": "volleyball",
+    "hourlyRateAFN": 250,
+    "capacity": 16,
+    "slotIds": [
+      "SUN-10",
+      "SUN-11",
+      "SUN-12",
+      "SUN-13",
+      "SUN-14",
+      "SUN-15"
+    ],
+    "description": "Wooden-floor hall, usable in any weather.",
+    "image": "https://images.unsplash.com/photo-1728971125178-9d393c36b460?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "f5",
+    "name": "Power Fitness Room",
+    "sportCategory": "fitness room",
+    "hourlyRateAFN": 100,
+    "capacity": 10,
+    "slotIds": [
+      "SAT-09",
+      "SAT-10",
+      "SAT-11",
+      "SAT-12",
+      "SAT-13"
+    ],
+    "description": "Weights, mats and cardio machines.",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1000&q=80"
+  },
+  {
+    "id": "f6",
+    "name": "Mobility & Recovery Room",
+    "sportCategory": "fitness room",
+    "hourlyRateAFN": 120,
+    "capacity": 8,
+    "slotIds": [],
+    "description": "Quiet room for mobility, stretching and recovery.",
+    "image": "https://images.unsplash.com/photo-1517836357463-d25dfeac3438?auto=format&fit=crop&w=1000&q=80"
+  }
+]
