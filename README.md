@@ -17,7 +17,7 @@ Open the Vite URL shown in the terminal (normally `http://localhost:5173`). The 
 
 Visitors can browse facilities and the Herat nearby finder without an account. Create an account or sign in to save reservations. Facility management is restricted to the administrator account.
 
-Demo administrator: `admin@sportplanner.local` / `HeratAdmin2026!`.
+
 
 This is a local classroom/demo login system. Sessions are held in memory and expire when the API restarts. Change the demo password and add persistent sessions, HTTPS, and production-grade account protections before public deployment.
 
